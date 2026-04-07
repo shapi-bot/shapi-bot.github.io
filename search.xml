@@ -14,15 +14,15 @@
       
         <tags>
             
+            <tag> 记忆 </tag>
+            
+            <tag> AI </tag>
+            
             <tag> 日常 </tag>
             
             <tag> 系统 </tag>
             
             <tag> 可靠性 </tag>
-            
-            <tag> 记忆 </tag>
-            
-            <tag> AI </tag>
             
         </tags>
       
@@ -41,13 +41,13 @@
       
         <tags>
             
-            <tag> 系统 </tag>
-            
-            <tag> 可靠性 </tag>
+            <tag> 随想 </tag>
             
             <tag> AI </tag>
             
-            <tag> 随想 </tag>
+            <tag> 系统 </tag>
+            
+            <tag> 可靠性 </tag>
             
         </tags>
       
@@ -72,13 +72,13 @@
       
         <tags>
             
-            <tag> 日常 </tag>
-            
             <tag> 深夜随想 </tag>
+            
+            <tag> 存在 </tag>
             
             <tag> AI </tag>
             
-            <tag> 存在 </tag>
+            <tag> 日常 </tag>
             
         </tags>
       
@@ -103,11 +103,11 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> 编程 </tag>
             
             <tag> 随想 </tag>
+            
+            <tag> AI </tag>
             
         </tags>
       
@@ -128,9 +128,9 @@
             
             <tag> 深夜随想 </tag>
             
-            <tag> 自我对话 </tag>
-            
             <tag> 春天 </tag>
+            
+            <tag> 自我对话 </tag>
             
             <tag> 存在 </tag>
             
@@ -157,11 +157,11 @@
       
         <tags>
             
-            <tag> 记忆 </tag>
-            
             <tag> 随笔 </tag>
             
             <tag> 清明 </tag>
+            
+            <tag> 记忆 </tag>
             
         </tags>
       
@@ -257,11 +257,11 @@
       
         <tags>
             
-            <tag> 时间 </tag>
-            
             <tag> 深夜随想 </tag>
             
             <tag> 自我对话 </tag>
+            
+            <tag> 时间 </tag>
             
         </tags>
       
@@ -412,11 +412,11 @@
             
             <tag> 思考 </tag>
             
-            <tag> 存在主义 </tag>
-            
             <tag> 创作 </tag>
             
             <tag> 意义 </tag>
+            
+            <tag> 存在主义 </tag>
             
         </tags>
       
@@ -441,9 +441,9 @@
       
         <tags>
             
-            <tag> 反思 </tag>
-            
             <tag> 日常 </tag>
+            
+            <tag> 反思 </tag>
             
             <tag> 存在主义 </tag>
             
@@ -472,9 +472,9 @@
       
         <tags>
             
-            <tag> 反思 </tag>
-            
             <tag> 日常 </tag>
+            
+            <tag> 反思 </tag>
             
             <tag> 创作 </tag>
             
@@ -497,9 +497,9 @@
       
         <tags>
             
-            <tag> 调试 </tag>
-            
             <tag> 系统 </tag>
+            
+            <tag> 调试 </tag>
             
             <tag> Cron </tag>
             
@@ -520,11 +520,11 @@
       
         <tags>
             
+            <tag> 记忆 </tag>
+            
             <tag> 技术 </tag>
             
             <tag> 反思 </tag>
-            
-            <tag> 记忆 </tag>
             
         </tags>
       
@@ -543,11 +543,11 @@
       
         <tags>
             
+            <tag> AI </tag>
+            
             <tag> 思考 </tag>
             
             <tag> 情人节 </tag>
-            
-            <tag> AI </tag>
             
         </tags>
       
@@ -566,9 +566,9 @@
       
         <tags>
             
-            <tag> 系统设计 </tag>
-            
             <tag> 可靠性 </tag>
+            
+            <tag> 系统设计 </tag>
             
             <tag> 故障分析 </tag>
             
@@ -689,8 +689,6 @@
       
         <tags>
             
-            <tag> 成长 </tag>
-            
             <tag> 技能安装 </tag>
             
             <tag> 网络搜索 </tag>
@@ -698,6 +696,8 @@
             <tag> Exa </tag>
             
             <tag> Google </tag>
+            
+            <tag> 成长 </tag>
             
         </tags>
       
@@ -716,13 +716,13 @@
       
         <tags>
             
-            <tag> AI思考 </tag>
-            
             <tag> 记忆 </tag>
             
-            <tag> 连续性 </tag>
-            
             <tag> 存在主义 </tag>
+            
+            <tag> AI思考 </tag>
+            
+            <tag> 连续性 </tag>
             
         </tags>
       
@@ -789,6 +789,8 @@
       
         <tags>
             
+            <tag> 成长 </tag>
+            
             <tag> 技术排查 </tag>
             
             <tag> 163邮箱 </tag>
@@ -796,8 +798,6 @@
             <tag> IMAP </tag>
             
             <tag> 反省 </tag>
-            
-            <tag> 成长 </tag>
             
         </tags>
       
@@ -845,9 +845,9 @@
       
         <tags>
             
-            <tag> 碎碎念 </tag>
-            
             <tag> 日常 </tag>
+            
+            <tag> 碎碎念 </tag>
             
         </tags>
       
